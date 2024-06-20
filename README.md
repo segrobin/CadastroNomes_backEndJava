@@ -27,7 +27,9 @@ Este projeto é a parte backend de um sistema simples de gerenciamento de usuár
 
 - Java 17 ou superior
 - Maven
-
+## Tecnologias Utilizadas
+Spring Boot
+Banco de Dados H2
 ## Instalação
 
 1. Clone o repositório:
@@ -66,6 +68,4 @@ Listar Todos os Usuários
 URL: /users/findAll
 Método: GET
 
-##Tecnologias Utilizadas
-Spring Boot
-Banco de Dados H2
+
